@@ -1,1 +1,6 @@
-I don't remember what I am supposed to write. 
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
